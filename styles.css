@@ -34,7 +34,8 @@ main{
 }
 .pictorial-news-section{
 	width:20%;
-	padding:20px
+	padding:20px;
+	text-align: center;
 }
 .pictorial-news-section img{
 	width:100%
